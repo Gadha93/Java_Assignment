@@ -6,7 +6,7 @@ public class ArraySort {
 		
 		int arr[]= {10,25,15,99,85,55};
 		int i;
-		System.out.println("Array Elements before sorting");
+//		System.out.println("Array Elements before sorting");
 		for(i=0; i<arr.length;i++)
 		{
 			System.out.println(arr[i]);
